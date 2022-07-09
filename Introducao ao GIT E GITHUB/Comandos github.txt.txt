@@ -1,0 +1,7 @@
+git add . (adiciona)
+
+git commit -m "....." (comita, faz um comentario sobre a nova adição
+
+git status (mostra o status)
+
+git push origin main (mandar tudo pro github)
